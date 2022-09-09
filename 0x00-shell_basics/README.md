@@ -1,1 +1,1 @@
-script that prints type of file named iamafile
+creating a symbolic link to a file
